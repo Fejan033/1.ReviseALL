@@ -1,0 +1,27 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    border: 30px solid darkblue ;
+    border-radius: 30px;
+    padding: 30px;
+    margin-left:20px;
+    margin-top:20px;
+    align-items: center;
+    background-color: cyan;
+    height: 700px;    ;
+    width: 700px;}
+    
+
+.items {
+    border: 5px solid rgb(5, 157, 144) ;
+    border-radius: 20px;
+    padding: 25px;
+    margin-top: 50px;
+    text-align: justify;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    background-color: cyan;
+    height: 15%;
+    width: 80%;
+}
+    
